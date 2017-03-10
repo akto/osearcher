@@ -1,5 +1,5 @@
 { 
-  "Subjects-by-Date" : [ 
+  "Subjects" : [ 
     {
     "id":1,
     "date":"13/10/2013",
@@ -133,7 +133,7 @@
     "active":1
     }
   ],
-  "Random-Subjects":[
+  "RandomSubjects":[
     "Mars Rover","Free Code Camp","Galatasaray","Vincent van Gogh","Homo Sapiens Sapiens","Evolution","Charles Darwin","Ada Lovelace",
     "Alan Turing",
   ]
